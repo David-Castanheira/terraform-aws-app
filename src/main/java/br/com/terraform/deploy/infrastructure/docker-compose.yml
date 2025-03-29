@@ -1,0 +1,6 @@
+services:
+  terraform:
+    image: hashicorp/terraform:latest
+    volumes:
+      - .:/infrastructure
+    working_dir: /infrastructure
