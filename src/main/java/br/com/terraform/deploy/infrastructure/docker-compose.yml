@@ -1,6 +1,8 @@
 services:
   terraform:
     image: hashicorp/terraform:latest
-    volumes:
+    volumes: 
+      - ~/.aws:/root/.aws
+      - ~/.ssh:/root/.ssh
       - .:/infrastructure
     working_dir: /infrastructure
