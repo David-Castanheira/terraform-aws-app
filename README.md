@@ -19,10 +19,11 @@ Para inscrições:
 *   **Terraform:** Ferramenta que premite o provisionamento da infraestrutura de maneira eifciente através de código (IaC - Infrastructure as code), facilitando a manutenção e inibindo configurações manuais repetitivas;
 
 # Serviços da AWS utilizados
-
+- EC2 (Elastic Compute Cloud);
+- Security Group;
+- Keypair
 
 # Sobre o Terraform
-
 
 
 ## Instalação
