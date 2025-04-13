@@ -1,7 +1,6 @@
 # Terraform App + Docker + AWS
 Projeto simples a fim de realizar o deploy da aplicação na AWS, visando demonstrar o uso do Terraform como IaC e com Docker para a geração da imagem da aplicação.
 
-Para inscrições:
 *   **[GET]:** Exibe a data e horário atuais;
 
 # Sumário
